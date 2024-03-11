@@ -2,4 +2,3 @@ It's really just a note to myself to Reid as a reminder that I need to write a b
 
 For that, though, I need to get some contributors… To make it worthwhile.
 
-I hope this works.
