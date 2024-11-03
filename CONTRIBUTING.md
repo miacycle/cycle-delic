@@ -1,5 +1,3 @@
-# Welcome!
-
 # Contributing to This Project
 
 Thank you for your interest in contributing! We welcome contributions of all kinds, including bug fixes, new features, documentation improvements, and more.
