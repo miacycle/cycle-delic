@@ -4,6 +4,8 @@ Thank you and for your interest in contributing! We welcome contributions of all
 
 ## How to Contribute
 
+prerequisite: make sure you have `git` on your machine.
+
 1. **Fork the Repository**: Click the 'Fork' button at the top of this repository and clone it to your local machine.
 2. **Create a Branch**:
    ```sh
