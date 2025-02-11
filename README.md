@@ -9,3 +9,5 @@ interface UserPreferences {
    };
  }
 ```
+
+This could be interesting.
