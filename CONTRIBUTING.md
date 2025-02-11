@@ -1,6 +1,6 @@
 # Contributing to This Project
 
-Thank you and welcome! for your interest in contributing! We welcome contributions of all kinds, including bug fixes, new features, documentation improvements, and more.
+Thank you and for your interest in contributing! We welcome contributions of all kinds, including bug fixes, new features, documentation improvements, and more.
 
 ## How to Contribute
 
